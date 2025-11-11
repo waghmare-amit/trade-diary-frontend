@@ -1,0 +1,21 @@
+{
+  "name": "trade-diary-frontend",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.10.6",
+    "@emotion/styled": "^11.10.6",
+    "@mui/material": "^5.15.6",
+    "@mui/x-data-grid": "^6.13.0",
+    "@mui/icons-material": "^5.15.6",
+    "axios": "^1.6.0",
+    "next": "^14.0.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "recharts": "^2.7.2"
+  }
+}
